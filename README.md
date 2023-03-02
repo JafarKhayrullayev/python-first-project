@@ -1,1 +1,1 @@
-# python-first-project
+Python dasturida ishlangan birinchi loyiham
